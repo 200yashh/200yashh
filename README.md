@@ -20,6 +20,8 @@
 <!--     <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>&nbsp;&nbsp; -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>&nbsp;&nbsp;
 <!--     <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>&nbsp;&nbsp; -->
 <!--     <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/>&nbsp;&nbsp; -->
 <!--     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>&nbsp;&nbsp; -->
@@ -34,3 +36,17 @@
   <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=200yashh&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="github top languages">
 <img align="right" class="output" src="https://github-readme-streak-stats.herokuapp.com/?user=200yashh&theme=tokyonight&hide_border=true" alt="github streak">
 </p>
+<br>
+<a href="https://www.instagram.com/_thebluegod" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" width="40" height="40"/>
+</a> &nbsp;&nbsp;
+<a href="https://twitter.com/hey_yashparmar" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" width="40" height="40"/>
+</a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nileshparmar-921158250" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/>
+</a> &nbsp;&nbsp;
+<a href="https://github.com/200yashh" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
+</a>
+
