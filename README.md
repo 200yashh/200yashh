@@ -11,6 +11,7 @@
     <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>&nbsp;&nbsp;
 <!--     <img src="https://indykoning.nl/wp-content/uploads/2020/03/Livewire.png" alt="livewire" width="40" height="40"/>&nbsp;&nbsp; -->
 <!--     <img src="https://skillicons.dev/icons?i=alpinejs" alt="Alpine.js" width="40" height="40"/>&nbsp;&nbsp; -->
@@ -22,7 +23,6 @@
 <!--     <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>&nbsp;&nbsp; -->
 <!--     <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/>&nbsp;&nbsp; -->
 <!--     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>&nbsp;&nbsp; -->
-    <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="40" height="40"/>&nbsp;&nbsp;
 <!--     <img src="https://skillicons.dev/icons?i=gcp" alt="google cloud" width="40" height="40"/>&nbsp;&nbsp; -->
 <!--     <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>&nbsp;&nbsp; -->
 </p>
