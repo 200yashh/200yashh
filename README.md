@@ -13,9 +13,9 @@
     <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>&nbsp;&nbsp;
-<!--     <img src="https://indykoning.nl/wp-content/uploads/2020/03/Livewire.png" alt="livewire" width="40" height="40"/>&nbsp;&nbsp; -->
+    <img src="https://indykoning.nl/wp-content/uploads/2020/03/Livewire.png" alt="livewire" width="40" height="40"/>&nbsp;&nbsp;
 <!--     <img src="https://skillicons.dev/icons?i=alpinejs" alt="Alpine.js" width="40" height="40"/>&nbsp;&nbsp; -->
-<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;&nbsp; -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;&nbsp;
 <!--     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>&nbsp;&nbsp; -->
 <!--     <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>&nbsp;&nbsp; -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;&nbsp;
